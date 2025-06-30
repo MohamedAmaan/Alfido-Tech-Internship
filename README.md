@@ -1,6 +1,6 @@
 # Alfido-Tech-Internship
 ✅ Task 1 – Hello World
-A simple Java program that prints Hello, World! to the console.
+A simple Java program that prints Hello, World! to the console.                                                          
 📌 Purpose: Understand the basic structure of a Java program and how to print output.
 
 ✅ Task 2 – Simple Calculator
