@@ -8,9 +8,9 @@ A console-based calculator that performs addition, subtraction, multiplication, 
 📌 Purpose: Learn user input handling, arithmetic operations, and control flow using switch statements.
 
 ✅ Task 3 – Inheritance and Method Overriding
-Demonstrates Object-Oriented Programming (OOP) concepts:
-Base class: Vehicle
-Subclasses: Car, Bike
+Demonstrates Object-Oriented Programming (OOP) concepts:                                                 
+Base class: Vehicle                      
+Subclasses: Car, Bike                         
 Concepts used: Inheritance, Method Overriding, and Polymorphism.                                                                    
 📌 Purpose: Understand class relationships and runtime polymorphism in Java.
 
